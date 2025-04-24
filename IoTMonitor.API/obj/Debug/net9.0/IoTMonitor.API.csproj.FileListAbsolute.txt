@@ -34,6 +34,9 @@
 /Users/mittulsharma/Desktop/Desktop/S25/IOT-Monitor/IoTMonitor.API/bin/Debug/net9.0/Mono.TextTemplating.dll
 /Users/mittulsharma/Desktop/Desktop/S25/IOT-Monitor/IoTMonitor.API/bin/Debug/net9.0/Npgsql.dll
 /Users/mittulsharma/Desktop/Desktop/S25/IOT-Monitor/IoTMonitor.API/bin/Debug/net9.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/mittulsharma/Desktop/Desktop/S25/IOT-Monitor/IoTMonitor.API/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/mittulsharma/Desktop/Desktop/S25/IOT-Monitor/IoTMonitor.API/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/mittulsharma/Desktop/Desktop/S25/IOT-Monitor/IoTMonitor.API/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
 /Users/mittulsharma/Desktop/Desktop/S25/IOT-Monitor/IoTMonitor.API/bin/Debug/net9.0/System.CodeDom.dll
 /Users/mittulsharma/Desktop/Desktop/S25/IOT-Monitor/IoTMonitor.API/bin/Debug/net9.0/System.Composition.AttributedModel.dll
 /Users/mittulsharma/Desktop/Desktop/S25/IOT-Monitor/IoTMonitor.API/bin/Debug/net9.0/System.Composition.Convention.dll
@@ -129,6 +132,3 @@
 /Users/mittulsharma/Desktop/Desktop/S25/IOT-Monitor/IoTMonitor.API/obj/Debug/net9.0/IoTMonitor.API.pdb
 /Users/mittulsharma/Desktop/Desktop/S25/IOT-Monitor/IoTMonitor.API/obj/Debug/net9.0/IoTMonitor.API.genruntimeconfig.cache
 /Users/mittulsharma/Desktop/Desktop/S25/IOT-Monitor/IoTMonitor.API/obj/Debug/net9.0/ref/IoTMonitor.API.dll
-/Users/mittulsharma/Desktop/Desktop/S25/IOT-Monitor/IoTMonitor.API/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll
-/Users/mittulsharma/Desktop/Desktop/S25/IOT-Monitor/IoTMonitor.API/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
-/Users/mittulsharma/Desktop/Desktop/S25/IOT-Monitor/IoTMonitor.API/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
