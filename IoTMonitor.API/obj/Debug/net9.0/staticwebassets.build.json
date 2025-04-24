@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "GqXBqz3Ujs79ttpQvrCejLHGt9vjpBV1O/KtUlho/rc=",
+  "Source": "IoTMonitor.API",
+  "BasePath": "_content/IoTMonitor.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
