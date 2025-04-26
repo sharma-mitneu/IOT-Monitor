@@ -5,6 +5,6 @@ namespace IoTMonitor.API.Models
         public int Id { get; set; }
         public string Name { get; set; }
         public string Location { get; set; }
-        public List<SensorData> SensorReadings { get; set; }
+        public List<SensorData>? SensorReadings { get; set; } = new List<SensorData>();
     }
 }
