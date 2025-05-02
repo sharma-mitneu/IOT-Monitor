@@ -1,0 +1,16 @@
+# docker-compose.yml
+version: '3.8'
+services:
+  postgres:
+    image: postgres:15
+    container_name: iotmonitor-db
+    environment:
+      POSTGRES_DB: iotmonitor
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: admin
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+volumes:
+  pgdata:
